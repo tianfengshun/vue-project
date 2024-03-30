@@ -19,7 +19,7 @@
                   addListHandler(){
                         //ui更新的方法
                   this.names.push("小猪");
-                        this.names.push("小猪");this.names.push("小猪");
+
 
                         //不会引起ui更新
                   //this.names.concat(["小朱"])
