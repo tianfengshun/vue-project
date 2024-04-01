@@ -5,6 +5,9 @@
   import com from  "./components/computer.vue"
   import Class from "./components/ClassDemo.vue"
   import style1 from  "./components/style.vue"
+  import watch from "./components/WatchDemo.vue"
+  import formDemo from "./components/formDemo.vue"
+  import refDemo from "./components/refDemo.vue"
 </script>
 
 <template>
@@ -13,5 +16,8 @@
 <!-- <event/> -->
 <!--      <com/>-->
 <!--      <class/>-->
-      <style1/>
+<!--      <style1/>-->
+<!--      <watch/>-->
+<!--<formDemo/>-->
+   <refDemo/>
 </template>
